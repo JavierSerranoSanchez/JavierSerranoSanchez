@@ -8,7 +8,7 @@ Soy un apasionado de la **Ciencia de Datos** y el **Machine Learning**. Me encan
 - 🔭 Estoy trabajando en varios proyectos interesantes que implican análisis de datos y modelos de machine learning.
 - 🤝 Estoy buscando colaborar en proyectos de código abierto relacionados con la ciencia de datos y el aprendizaje automático.
 - 💬 Pregúntame sobre **Python**, **pandas**, **scikit-learn**, **TensorFlow**, y más.
-- 📫 Puedes contactarme en: [serranosanchezjavier01.com]
+- 📫 Puedes contactarme en: [serranosanchezjavier01@gmail.com]
 
 ## 🛠️ Tecnologías y Herramientas
 
