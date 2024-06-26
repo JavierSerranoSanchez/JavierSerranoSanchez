@@ -4,7 +4,7 @@ Soy un apasionado de la **Ciencia de Datos** y el **Machine Learning**. Me encan
 
 ## 🚀 Sobre Mí
 
-- 🌱 Actualmente, estoy aprendiendo y mejorando mis habilidades en **deep learning** y **SQL**.
+- 🌱 Actualmente, estoy aprendiendo y mejorando mis habilidades en **Deep Learning** y **SQL**.
 - 🔭 Estoy trabajando en varios proyectos interesantes que implican análisis de datos y modelos de machine learning.
 - 🤝 Estoy buscando colaborar en proyectos de código abierto relacionados con la ciencia de datos y el aprendizaje automático.
 - 💬 Pregúntame sobre **Python**, **pandas**, **scikit-learn**, **TensorFlow**, y más.
