@@ -1,6 +1,6 @@
 º# ¡Hola, soy [Javier]! 👋
 
-![Banner](C:\Users\seerr\OneDrive\Desktop\1920x500_cabecera_grado_ciencias_datos.jpg)
+![Banner](![1920x500_cabecera_grado_ciencias_datos](https://github.com/JavierSerranoSanchez/JavierSerranoSanchez/assets/157526247/3dcaf2cf-c082-4c8b-a5df-b14d90d18d95))
 Soy un apasionado de la **Ciencia de Datos** y el **Machine Learning**. Me encanta explorar datos y desarrollar modelos predictivos para resolver problemas complejos y generar conocimientos valiosos.
 
 ## 🚀 Sobre Mí
