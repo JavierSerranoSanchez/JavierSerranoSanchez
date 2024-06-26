@@ -19,12 +19,7 @@ Soy un apasionado de la **Ciencia de Datos** y el **Machine Learning**. Me encan
 - **Herramientas de Ciencia de Datos:** Jupyter, Pandas, NumPy, Matplotlib, Seaborn
 - **Bases de Datos:** SQL
 - **Otros:** Git, GitHub
-
-## 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JavierSerranoSanchez&show_icons=true&theme=radical)
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierSerranoSanchez&layout=compact&theme=radical)
-
+- 
 ## 🔗 Conéctate Conmigo
 
 - [LinkedIn](www.linkedin.com/in/javierserrano01)
