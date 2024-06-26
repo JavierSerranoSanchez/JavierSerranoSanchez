@@ -17,7 +17,7 @@ Soy un apasionado de la **Ciencia de Datos** y el **Machine Learning**. Me encan
 - **Herramientas de Ciencia de Datos:** Jupyter, Pandas, NumPy, Matplotlib, Seaborn
 - **Bases de Datos:** SQL
 - **Otros:** Git, GitHub
-- 
+
 ## 🔗 Conéctate Conmigo
 
 - [LinkedIn](www.linkedin.com/in/javierserrano01)
