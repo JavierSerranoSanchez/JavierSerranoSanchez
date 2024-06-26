@@ -1,7 +1,6 @@
 # ¡Hola, soy [Javier]! 👋
 
-![Banner](![image](https://github.com/JavierSerranoSanchez/JavierSerranoSanchez/assets/157526247/c60ee9c4-b00e-4dfb-8538-7c6dd9ae27c4))
-
+<img src="image](https://github.com/JavierSerranoSanchez/JavierSerranoSanchez/assets/157526247/c60ee9c4-b00e-4dfb-8538-7c6dd9ae27c4" alt="Banner" style="width:100%;"/>
 Soy un apasionado de la **Ciencia de Datos** y el **Machine Learning**. Me encanta explorar datos y desarrollar modelos predictivos para resolver problemas complejos y generar conocimientos valiosos.
 
 ## 🚀 Sobre Mí
