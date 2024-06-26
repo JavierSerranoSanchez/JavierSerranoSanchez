@@ -1,4 +1,4 @@
-º# ¡Hola, soy [Javier]! 👋
+# ¡Hola, soy [Javier]! 👋
 
 Soy un apasionado de la **Ciencia de Datos** y el **Machine Learning**. Me encanta explorar datos y desarrollar modelos predictivos para resolver problemas complejos y generar conocimientos valiosos.
 
